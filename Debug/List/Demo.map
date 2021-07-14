@@ -1,0 +1,73 @@
+###############################################################################
+#
+# IAR ELF Linker V9.10.2.313/W64 for ARM                  14/Jul/2021  14:24:00
+# Copyright 2007-2021 IAR Systems AB.
+#
+#    Output file  =  C:\Users\¹¨Ï£Íû\Desktop\000\Debug\Exe\Demo.out
+#    Map file     =  C:\Users\¹¨Ï£Íû\Desktop\000\Debug\List\Demo.map
+#    Command line =
+#        -f C:\Users\¹¨Ï£Íû\Desktop\000\Debug\Exe\Demo.out.rsp
+#        (C:\Users\¹¨Ï£Íû\Desktop\000\Debug\Obj\start.o --no_out_extension
+#        -o C:\Users\¹¨Ï£Íû\Desktop\000\Debug\Exe\Demo.out --map
+#        C:\Users\¹¨Ï£Íû\Desktop\000\Debug\List\Demo.map --config
+#        "C:\Program Files\IAR Systems\Embedded Workbench
+#        9.0\arm\config\linker\ST\stm32f411xC.icf" --semihosting --no_entry
+#        --vfe --text_out locale)
+#
+###############################################################################
+
+*******************************************************************************
+*** HEAP SELECTION
+***
+
+The basic heap was selected because no calls to memory allocation
+functions were found in the application outside of system library
+functions.
+
+
+*******************************************************************************
+*** PLACEMENT SUMMARY
+***
+
+
+No sections matched the following patterns:
+
+  ro                  in "P1"
+  ro section .intvec  in "A0"
+  rw                  in "P2"
+
+
+  Section  Kind  Address  Size  Object
+  -------  ----  -------  ----  ------
+
+Unused ranges:
+
+  From  To  Size
+  ----  --  ----
+
+
+
+*******************************************************************************
+*** MODULE SUMMARY
+***
+
+    Module
+    ------
+----------------
+    Grand Total:
+
+
+*******************************************************************************
+*** ENTRY LIST
+***
+
+Entry  Address  Size  Type    Object
+-----  -------  ----  ----    ------
+
+
+[1] = C:\Users\¹¨Ï£Íû\Desktop\000\Debug\Obj
+
+
+
+Errors: none
+Warnings: none
